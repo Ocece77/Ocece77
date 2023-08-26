@@ -2,6 +2,12 @@
 - 👀 I’m interested in programming (like everyone here i guess hahaha)
 - 🌱 I’m currently learning python , javascript, c# and java 
 
+You can check my profile on this website !
+
+leetcode:https://leetcode.com/Ocece77/
+codeWars:https://www.codewars.com/users/Ocece77
+frontMentor:https://www.frontendmentor.io/home
+
 
 <!---
 Ocece77/Ocece77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
