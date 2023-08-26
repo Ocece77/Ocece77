@@ -4,11 +4,11 @@
 
 You can check my profile on this website !
 
-leetcode:https://leetcode.com/Ocece77
+leetcode: https://leetcode.com/Ocece77
 
-codeWars:https://www.codewars.com/users/Ocece77
+codeWars: https://www.codewars.com/users/Ocece77
 
-frontMentor:https://www.frontendmentor.io/home
+frontMentor:[https://www.frontendmentor.io/home](https://www.frontendmentor.io/profile/Ocece77)
 
 
 <!---
