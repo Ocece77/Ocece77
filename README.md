@@ -4,6 +4,8 @@
 
 You can check my profile on this website !
 
+linkedIn : https://www.linkedin.com/in/oceanekasindu/
+
 leetcode: https://leetcode.com/Ocece77
 
 codeWars: https://www.codewars.com/users/Ocece77
