@@ -13,17 +13,20 @@ Also Framework I often work with ( look a my project ! ):
 
 You can check my profile on those website !
 
-My Linkedin : [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oceanekasindu/) 
+My Linkedin :
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oceanekasindu/) 
 
 [My portofolio]( https://ocece77.github.io/portfolio/)
 
 [My leetcode]( https://leetcode.com/Ocece77)
 
 [My codeWars]( https://www.codewars.com/users/Ocece77)
-
 [My frontMentor](https://www.frontendmentor.io/profile/Ocece77)
 
-Contact me for more info: [![Contact me :](https://skillicons.dev/icons?i=gmail)](mailto:oceanekasindupro@gmail.com?subject=[GitHub]%20Want%20to%20Contact%20You)
+[My Linkedin](https://www.linkedin.com/in/oceanekasindu/)  
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oceanekasindu/) 
+[Contact me for more info](mailto:oceanekasindupro@gmail.com?subject=[GitHub]%20Want%20to%20Contact%20You)
+[![Contact me :](https://skillicons.dev/icons?i=gmail)](mailto:oceanekasindupro@gmail.com?subject=[GitHub]%20Want%20to%20Contact%20You)
 
 
 <!---
