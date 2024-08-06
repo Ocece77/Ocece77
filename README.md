@@ -1,8 +1,10 @@
-[![My Skills](https://skillicons.dev/icons?i=apple)](https://skillicons.dev) Hi, I’m @Ocece77
-- 👀 I’m interested in programming (like everyone here i guess hahaha)
+[![My Skills](https://skillicons.dev/icons?i=apple)](https://skillicons.dev) #Hi, I’m Océane alias Ocece77
+- 📚 I'm a French CS student !
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning python , javascript, c# and java
+  
 
-⚒️ Tools I work with
+⚒️ #Tools I work with:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,cpp,c,kotlin,npm,nodejs,sqlite,react,figma)](https://skillicons.dev)
 
 Also Framework I often work with ( look a my project ! ):
@@ -11,7 +13,7 @@ Also Framework I often work with ( look a my project ! ):
 
 You can check my profile on those website !
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oceanekasindu/) 
+My Linkedin : [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oceanekasindu/) 
 
 [My portofolio]( https://ocece77.github.io/portfolio/)
 
@@ -21,7 +23,7 @@ You can check my profile on those website !
 
 [My frontMentor](https://www.frontendmentor.io/profile/Ocece77)
 
-[![Contact me :](https://skillicons.dev/icons?i=gmail)](mailto:oceanekasindupro@gmail.com?subject=[GitHub]%20Want%20to%20Contact%20You)
+Contact me for more info: [![Contact me :](https://skillicons.dev/icons?i=gmail)](mailto:oceanekasindupro@gmail.com?subject=[GitHub]%20Want%20to%20Contact%20You)
 
 
 <!---
