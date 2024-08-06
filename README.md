@@ -10,7 +10,7 @@
 # ⚒️Tools I work with:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,cpp,c,kotlin,npm,nodejs,sqlite,react,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,cpp,c,kotlin,npm,nodejs,sqlite,figma)](https://skillicons.dev)
 
 Also Framework I often work with ( look a my project ! ):
 
