@@ -1,10 +1,10 @@
-[![My Skills](https://skillicons.dev/icons?i=apple)](https://skillicons.dev) #Hi, I’m Océane alias Ocece77
+[![My Skills](https://skillicons.dev/icons?i=apple)](https://skillicons.dev) # Hi, I’m Océane alias Ocece77
 - 📚 I'm a French CS student !
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python , javascript, c# and java
   
 
-⚒️ #Tools I work with:
+⚒️ # Tools I work with:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,cpp,c,kotlin,npm,nodejs,sqlite,react,figma)](https://skillicons.dev)
 
 Also Framework I often work with ( look a my project ! ):
@@ -18,6 +18,7 @@ You can check my profile on those website !
 [My leetcode]( https://leetcode.com/Ocece77)
 
 [My codeWars]( https://www.codewars.com/users/Ocece77)
+
 [My frontMentor](https://www.frontendmentor.io/profile/Ocece77)
 
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oceanekasindu/) 
