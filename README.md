@@ -2,20 +2,14 @@
 - 👀 I’m interested in programming (like everyone here i guess hahaha)
 - 🌱 I’m currently learning python , javascript, c# and java
 
-Programming language that I know an with I can create project ! :
+⚒️ Tools I work with
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,cpp,c,kotlin,npm,nodejs,sqlite,react)](https://skillicons.dev)
 
-I can use those css Framework ( look a my project ! ):
+Also Framework I often work with ( look a my project ! ):
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,react,angular,vite)](https://skillicons.dev)
 
-Also those Js Framework  :
-
-[![My Skills](https://skillicons.dev/icons?i=react,angular,vite)](https://skillicons.dev)
-
-
-I have design skills :
-
+For design 🖌️:
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 You can check my profile on those website !
