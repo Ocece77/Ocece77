@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Ocece77
 - 👀 I’m interested in programming (like everyone here i guess hahaha)
-- 🌱 I’m currently learning python , javascript, c# and java 
+- 🌱 I’m currently learning python , javascript, c# and java
+- 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 You can check my profile on this website !
 
