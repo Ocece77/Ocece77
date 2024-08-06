@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
+
 - 👋 Hi, I’m @Ocece77
 - 👀 I’m interested in programming (like everyone here i guess hahaha)
 - 🌱 I’m currently learning python , javascript, c# and java
