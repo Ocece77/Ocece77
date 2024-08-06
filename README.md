@@ -20,9 +20,12 @@ You can check my profile on those website !
 [My codeWars]( https://www.codewars.com/users/Ocece77)
 [My frontMentor](https://www.frontendmentor.io/profile/Ocece77)
 
-[My Linkedin](https://www.linkedin.com/in/oceanekasindu/)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oceanekasindu/) 
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oceanekasindu/) 
+[My Linkedin](https://www.linkedin.com/in/oceanekasindu/) 
 
-[Contact me for more info](mailto:oceanekasindupro@gmail.com?subject=[GitHub]%20Want%20to%20Contact%20You) [![Contact me :](https://skillicons.dev/icons?i=gmail)](mailto:oceanekasindupro@gmail.com?subject=[GitHub]%20Want%20to%20Contact%20You)
+
+[![Contact me :](https://skillicons.dev/icons?i=gmail)](mailto:oceanekasindupro@gmail.com?subject=[GitHub]%20Want%20to%20Contact%20You)
+[Contact me for more info](mailto:oceanekasindupro@gmail.com?subject=[GitHub]%20Want%20to%20Contact%20You) 
 
 
 <!---
