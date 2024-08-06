@@ -5,17 +5,20 @@
 Programming language that I know an with I can create project ! :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,cpp,c,kotlin,npm,nodejs,sqlite,react)](https://skillicons.dev)
 
-I can use those css Framework ( look a my project ! )
+I can use those css Framework ( look a my project ! ):
+
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
 
 Also those Js Framework  :
+
 [![My Skills](https://skillicons.dev/icons?i=react,angular,vite)](https://skillicons.dev)
 
 
 I have design skills :
+
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-You can check my profile on this website !
+You can check my profile on those website !
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) My Linkedin : https://www.linkedin.com/in/oceanekasindu/
 
