@@ -3,7 +3,7 @@
 
 - 📚 I'm a French CS student !
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python , javascript, c# and java
+- 🌱 I’m currently learning python for ML 
   
 
 
