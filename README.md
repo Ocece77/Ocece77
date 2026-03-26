@@ -19,7 +19,7 @@ Also Framework I often work with ( look a my project ! ):
 
 You can check my profile on those website !
 
-[My portofolio]( https://ocece77.github.io/portfolio/)
+[My portofolio](https://ocece77.github.io/portfolio_v2/)
 
 [My leetcode]( https://leetcode.com/Ocece77)
 
